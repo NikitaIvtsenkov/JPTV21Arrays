@@ -15,6 +15,7 @@ public class JPTV21Arrays {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("-------Одномерные массивы-----");
         // TODO code application logic here
     }
     
